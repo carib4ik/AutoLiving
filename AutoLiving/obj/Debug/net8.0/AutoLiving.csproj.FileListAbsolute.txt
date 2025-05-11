@@ -1,0 +1,14 @@
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\bin\Debug\net8.0\AutoLiving.exe
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\bin\Debug\net8.0\AutoLiving.deps.json
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\bin\Debug\net8.0\AutoLiving.runtimeconfig.json
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\bin\Debug\net8.0\AutoLiving.dll
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\bin\Debug\net8.0\AutoLiving.pdb
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.AssemblyInfoInputs.cache
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.AssemblyInfo.cs
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.csproj.CoreCompileInputs.cache
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.dll
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\refint\AutoLiving.dll
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.pdb
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.genruntimeconfig.cache
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\ref\AutoLiving.dll
