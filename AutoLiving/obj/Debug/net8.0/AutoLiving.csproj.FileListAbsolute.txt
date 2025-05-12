@@ -12,3 +12,4 @@ C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\refint\AutoL
 C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.pdb
 C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.genruntimeconfig.cache
 C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\ref\AutoLiving.dll
+C:\Users\carib\RiderProjects\AutoLiving\AutoLiving\obj\Debug\net8.0\AutoLiving.sourcelink.json
